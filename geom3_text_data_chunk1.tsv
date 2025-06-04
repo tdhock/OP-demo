@@ -1,0 +1,17 @@
+x	y	label	showSelected1	group
+0	4	penalty=1.00	0	-1
+0	4	penalty=1.58	0.2	-1
+0	4	penalty=2.51	0.4	-1
+0	4	penalty=3.98	0.6	-1
+0	4	penalty=6.31	0.8	-1
+0	4	penalty=10.00	1	-1
+0	4	penalty=15.85	1.2	-1
+0	4	penalty=25.12	1.4	-1
+0	4	penalty=39.81	1.6	-1
+0	4	penalty=63.10	1.8	-1
+0	4	penalty=100.00	2	-1
+0	4	penalty=158.49	2.2	-1
+0	4	penalty=251.19	2.4	-1
+0	4	penalty=398.11	2.6	-1
+0	4	penalty=630.96	2.8	-1
+0	4	penalty=1000.00	3	-1
